@@ -1,0 +1,22 @@
+/*@media only screen and (min-width: 1281px) {}
+
+@media only screen and (min-width: 992px) and (max-width: 1280px) {}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {} 
+    
+@media only screen and (max-width: 479px) {}*/
+
+.cloud-img{
+    margin-left:  7vw;
+    width: 35vw;
+    height: 15vw;
+    flex-shrink: 0;
+    -webkit-flex-shrink: 0;
+    white-space: nowrap;
+    user-select:none;
+    -webkit-user-select:none;
+    animation: cloudscroll 100s linear infinite;
+    -webkit-animation: cloudscroll 100s linear infinite;
+}

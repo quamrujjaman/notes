@@ -1,0 +1,36 @@
+.sign-in-wrap{
+  /*i must include z-index:3; */
+      position: relative;
+      display: block;
+      width: 100%;
+      height: 25vw;
+      margin-bottom: -1px;
+      background-image: url(../src/img/om0J_h.gif);
+      background-repeat: no-repeat;
+      background-size: 100% 25vw;
+      z-index: 3;
+}
+@media only screen and (max-width: 767px) {
+    .sign-in-wrap{
+    /*i must include z-index:5; */
+      height: 125vw;
+      background-image: none;
+      background:linear-gradient(#ECEFF7, #0078a3);
+      background:-webkit-linear-gradient(#ECEFF7, #0078a3);
+    }
+} 
+form{position: absolute;display: block;
+  width: 200px;
+  height: 200px;
+  top: 20vw;
+  left: 20vw;
+  background-color: rgba(0, 0, 0, 0.349);
+  
+}
+.op{
+  position: fixed;
+  display: block;
+  width: 200px;
+  height: 200px;
+  color: red;
+}

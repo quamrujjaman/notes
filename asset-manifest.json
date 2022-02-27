@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/notes/static/css/main.2c9a95fc.css",
+    "main.js": "/notes/static/js/main.3fe26dee.js",
+    "static/media/cover-photo.gif": "/notes/static/media/cover-photo.6208216d889a2583af0f.gif",
+    "static/media/om0J_h.gif": "/notes/static/media/om0J_h.49e57fa54052d6efd5ed.gif",
+    "static/media/gog.wav": "/notes/static/media/gog.b45440745818fb3fc478.wav",
+    "static/media/cloud4.png": "/notes/static/media/cloud4.12f9f40d697ea249174b.png",
+    "static/media/al.ttf": "/notes/static/media/al.755298f7c4a841242131.ttf",
+    "static/media/cloud1.png": "/notes/static/media/cloud1.c9675983cf2ea05cf330.png",
+    "static/media/piret2.png": "/notes/static/media/piret2.65b65a9adf94ca832e2d.png",
+    "static/media/akok.mp3": "/notes/static/media/akok.b5831d4b9f23f853d7ce.mp3",
+    "static/media/cloud2.png": "/notes/static/media/cloud2.8c13aaab76e942279dd8.png",
+    "static/media/cloud5.png": "/notes/static/media/cloud5.d096c17b948b10fd4336.png",
+    "static/media/cloud3.png": "/notes/static/media/cloud3.719b41708ffb7ffc338b.png",
+    "static/media/air0.png": "/notes/static/media/air0.c4d3a88d21d00a3aa03e.png",
+    "index.html": "/notes/index.html",
+    "main.2c9a95fc.css.map": "/notes/static/css/main.2c9a95fc.css.map",
+    "main.3fe26dee.js.map": "/notes/static/js/main.3fe26dee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9a95fc.css",
+    "static/js/main.3fe26dee.js"
+  ]
+}
